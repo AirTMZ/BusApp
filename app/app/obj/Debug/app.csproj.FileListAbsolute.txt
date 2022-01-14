@@ -1,0 +1,10 @@
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\bin\Debug\app.exe.config
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\bin\Debug\app.exe
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\bin\Debug\app.pdb
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.csprojAssemblyReference.cache
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.Form1.resources
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.Properties.Resources.resources
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.csproj.GenerateResource.cache
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.exe
+\\bgu-file\student-desktops$\19mitchellti\Desktop\source\app\app\obj\Debug\app.pdb
